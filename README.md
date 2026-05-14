@@ -2,7 +2,7 @@
 
 This repository contains supplementary cohort information and cross-validation split files for the EMBC 2026 paper:
 
-**Single-Channel Respiratory-Effort Temporal Event Segmentation for Second-Level Central Sleep Apnea Detection**
+**A Temporal Event Segmentation Framework for Second-Level Central Sleep Apnea Detection Using Single-Channel Respiratory Effort Signals**
 
 ## Overview
 
